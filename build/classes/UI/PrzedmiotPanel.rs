@@ -1,0 +1,2 @@
+PrzedmiotPanel$PrzedmiotPanel
+PrzedmiotPanel
